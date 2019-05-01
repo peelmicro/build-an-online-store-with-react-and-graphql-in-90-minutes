@@ -1,0 +1,79 @@
+{
+  "brews": [
+    {
+      "name": "Liberty Ale",
+      "description": "Liberty Ale uses only natural ingredients — pale malted barley, fresh whole-cone Cascade hops and a special top-fermenting yeast, and water.",
+      "price": "7.99"
+    },
+    {
+      "name": "Christmas Ale",
+      "description": "The beer pours a dark, mahogany brown with a creamy, tan head. It has flavors of creamy bittersweet chocolate, coffee, and nuts with a rich mouthfeel.",
+      "price": "9.99"
+    },
+    {
+      "name": "Porter",
+      "description": "A blend of specially roasted pale, caramel, chocolate, and black malts, along with our top-fermenting yeast, creates complexity without bitterness.",
+      "price": "6.99"
+    },
+    {
+      "name": "Steam",
+      "description": "A blend of pale and caramel malts, fermentation with lager yeast at warmer ale temperatures in shallow open-air fermenters, and gentle carbonation.",
+      "price": "7.99"
+    },
+    {
+      "name": "La Folie",
+      "description": "Dry-hopped with some of our hop heroes, bringing incredibly fruity aromas of zesty orange, pithy grapefruit, pungent pine and resin.",
+      "price": "8.99"
+    },
+    {
+      "name": "Jack the Lad",
+      "description": "Spicy hops and Carafa Malt for colour, then aged in red wine barrels. On the nose there's cola, chocolate, coffee, warming oak, and spice.",
+      "price": "7.99"
+    },
+    {
+      "name": "Gueze Tilquin",
+      "description": "A balance of sweet and salty, citrus, and caramel. Fermented at the bottom of the North Sea, which is the perfect temperature for lagers.",
+      "price": "10.99"
+    },
+    {
+      "name": "Oude Kriek",
+      "description": "This beer is a riot of whisky, caramel and strawberry, all tempered by a toe curling bitterness enducing rapture in all who taste it.",
+      "price": "11.99"
+    },
+    {
+      "name": "90 Minute",
+      "description": "A 9.2% Double IPA aged for 21 months in a 1965 Invergordon cask with 30 kg of fresh strawberries. This beer is a riot of whisky and caramel.",
+      "price": "13.99"
+    },
+    {
+      "name": "Boston Lager",
+      "description": "This beer is slightly different each year, with subtle variations due to environment. What doesn't change is the rich chocolate, bitter coffee and warmth of this lager.",
+      "price": "7.99"
+    },
+    {
+      "name": "Pizza Port",
+      "description": "Belgian yeast and American hops untie on a cardinal scale. Steel yourself for biblical volumes of grapefruit and a wave of spicy, fruity character.",
+      "price": "12.99"
+    },
+    {
+      "name": "Rochefort 8",
+      "description": "Brewed with mountains of Wheat, Rye, Cara and Crystal malts, fermented with an American ale yeast and bittered with Amarillo & Centennial.",
+      "price": "14.99"
+    },
+    {
+      "name": "Trappist Ale",
+      "description": "The seductive lure of the sassy passion fruit hop proves too much to resist. There are no additives, preservatives, pasteurization or strings attached.",
+      "price": "17.99"
+    },
+    {
+      "name": "XX Bitter",
+      "description": "XX Bitter is elegant, refined, assured, (boring) and understated. This beer is a fruity riot of blackberries, pears, and plums.",
+      "price": "11.99"
+    },
+    {
+      "name": "The Fearless",
+      "description": "Single hopped with Mosaic for lots of tropical, passion fruit and citrus flavours. Loaded with well over 100kg of blueberries,  this is super fruity hop bomb.",
+      "price": "12.99"
+    }
+  ]
+}

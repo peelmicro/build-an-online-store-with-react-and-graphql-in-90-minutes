@@ -1,0 +1,28 @@
+{
+  "brands": [
+    {
+      "name": "BearPaw River",
+      "description": "BPR is a microbrewery based in Wasilla, dedicated to making classic hand-crafted beers."
+    },
+    {
+      "name": "Goose Island",
+      "description": "Goose Island Brewery is a Chicago brewery that makes a number of IPAs, both seasonal and year-round"
+    },
+    {
+      "name": "Olentangy River",
+      "description": "ORBC is a newcomer that offers rich lagers and a wide selection of craft beers"
+    },
+    {
+      "name": "Solera",
+      "description": "Solera Brewery is based out of Parkdale, Oregon and has a passion for creating delicious beers"
+    },
+    {
+      "name": "Southern Tier",
+      "description": "Southern Tier, out of Lakewood, New York, makes a strong line of craft brews"
+    },
+    {
+      "name": "Mt Hood",
+      "description": "Based in the Pacific Northwest, Mt Hood has distinctive ales made with pure glacial water"
+    }
+  ]
+}
