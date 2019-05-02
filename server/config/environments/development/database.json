@@ -1,0 +1,20 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "strapi-hook-mongoose",
+      "settings": {
+        "client": "mongo",
+        "host": "cluster0-ycwj8.mongodb.net",
+        "port": 27017,
+        "database": "Strapi",
+        "username": "juan",
+        "password": "juan2019",
+        "srv": true
+      },
+      "options": {
+        "ssl": true
+      }
+    }
+  }
+}
