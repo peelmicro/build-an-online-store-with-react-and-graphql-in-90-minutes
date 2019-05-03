@@ -4,7 +4,14 @@ Source code for the ["Build an Online Store with React and GraphQL in 90 Minutes
 
 ## How to Use
 
-### To run the `react` client project execute on a terminal window
+### To run the `Strapi` server project execute on a terminal window
+
+```bash
+cd server
+strapi start
+```
+
+### To run the `React` client project execute on another terminal window
 
 ```bash
 cd client
