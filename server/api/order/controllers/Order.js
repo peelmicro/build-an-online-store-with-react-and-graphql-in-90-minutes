@@ -71,7 +71,7 @@ module.exports = {
     });
 
     // Create order in database
-    const order = await strapi.services.orders.add({
+    const order = await strapi.services.order.add({
       user: ctx.state.user._id,
       address,
       amount,
