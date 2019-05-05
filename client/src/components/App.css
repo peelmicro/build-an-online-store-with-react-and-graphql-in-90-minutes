@@ -67,3 +67,10 @@ form input {
     rgba(0, 0, 0, 0.0784314) 0px 1px 3px;
   transition: all 150ms ease;
 }
+
+/* Media Queries */
+@media (max-width: 400px) {
+  .main-title {
+    display: none;
+  }
+}
