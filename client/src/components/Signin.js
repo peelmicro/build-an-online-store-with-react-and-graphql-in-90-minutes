@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Box, Button, Heading, Text, TextField } from "gestalt";
+import { Container, Box, Button, Heading, TextField } from "gestalt";
 import { setToken } from "../utils";
 import ToastMessage from "./ToastMessage";
 import Strapi from "strapi-sdk-javascript/build/main";
@@ -80,14 +80,10 @@ class Signin extends React.Component {
             onSubmit={this.handleSubmit}
           >
             {/* Sign In Form Heading */}
-            <Box
-              marginBottom={2}
-              display="flex"
-              direction="column"
-              alignItems="center"
-            >
+            <Box marginBottom={2}>
               <Heading color="midnight">Welcome Back!</Heading>
             </Box>
+
             {/* Username Input */}
             <TextField
               id="username"
