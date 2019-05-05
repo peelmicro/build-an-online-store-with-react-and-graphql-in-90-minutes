@@ -21,6 +21,7 @@
   "dependencies": {
     "lodash": "^4.17.5",
     "strapi": "3.0.0-alpha.26.1",
+    "strapi-email-sendgrid": "^3.0.0-alpha.14.5",
     "strapi-hook-mongoose": "3.0.0-alpha.26.1",
     "strapi-utils": "3.0.0-alpha.26.1",
     "stripe": "^6.31.2"
